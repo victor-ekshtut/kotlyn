@@ -8,6 +8,7 @@ fun main(args: Array<String>) {
         0 -> println("X is 0.")
         10 -> println("EKS ES CEN")
         42 -> println("Answer!")
-    else -> println("x is not 0 or 10 or 42, it is $x.")
+        in 42..420 -> println("Between 42 and 420.")
+    else -> println("x is not 0 or 10 or 42..420, it is $x.")
     }
 }
