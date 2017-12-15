@@ -7,12 +7,12 @@ I'm using this repository for Kotlin learning purposes.
 
 - [x] HelloWorld
 - [ ] Val /Var
-- [ ] DataType Conversion
+- [x] DataType Conversion
 - [x] MathOperators
 - [x] LogicStatements
 - [x] IF /IFElse /IFElseIF /NestedIF
 - [x] When
-- [ ] For /Nested For
+- [x] For /Nested For
 - [ ] While /Do While
 - [ ] Returns and Jumps
 - [ ] One Dimension Array
