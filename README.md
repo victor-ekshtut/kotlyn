@@ -11,7 +11,7 @@ I'm using this repository for Kotlin learning purposes.
 - [x] MathOperators
 - [x] LogicStatements
 - [x] IF /IFElse /IFElseIF /NestedIF
-- [ ] When
+- [x] When
 - [ ] For /Nested For
 - [ ] While /Do While
 - [ ] Returns and Jumps
