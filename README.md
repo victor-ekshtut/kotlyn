@@ -6,7 +6,7 @@ I'm using this repository for Kotlin learning purposes.
 :panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face:
 
 - [x] HelloWorld
-- [ ] Val /Var
+- [x] Val x Var
 - [x] DataType Conversion
 - [x] MathOperators
 - [x] LogicStatements
