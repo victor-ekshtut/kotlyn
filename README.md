@@ -18,8 +18,8 @@ I'm using this repository for Kotlin learning purposes.
 - [x] One Dimension Array
 - [x] ArrayList
 - [x] HashMap
-- [ ] Functions
-- [ ] Polymorphism
+- [x] Functions
+- [x] Polymorphism
 - [ ] Global and Local Variables 
 - [ ] OOP
 
