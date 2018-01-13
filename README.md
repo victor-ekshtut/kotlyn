@@ -13,11 +13,11 @@ I'm using this repository for Kotlin learning purposes.
 - [x] IF /IFElse /IFElseIF /NestedIF
 - [x] When
 - [x] For /Nested For
-- [ ] While /Do While
+- [x] While /Do While
 - [ ] Returns and Jumps
-- [ ] One Dimension Array
-- [ ] ArrayList
-- [ ] HashMap
+- [x] One Dimension Array
+- [x] ArrayList
+- [x] HashMap
 - [ ] Functions
 - [ ] Polymorphism
 - [ ] Global and Local Variables 
