@@ -20,7 +20,7 @@ I'm using this repository for Kotlin learning purposes.
 - [x] HashMap
 - [x] Functions
 - [x] Polymorphism
-- [ ] Global and Local Variables 
+- [x] Global and Local Variables 
 - [ ] OOP
 
 Soon!
