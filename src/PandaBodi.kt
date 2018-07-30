@@ -51,7 +51,7 @@ data class BODI(var bodyweightKg: Double, var heightCm: Double, var ageYears:Int
             else return ""
         }
 }
-fun main(args: Array) {
+fun main(args: Array<String>) {
     val pandaBodi=BODI(79.2,179.00, 22,"male",1)
     println(pandaBodi)
     println("Enter your bodyweight in kilograms:")

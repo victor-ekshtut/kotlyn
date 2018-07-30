@@ -2,23 +2,28 @@
  * Created by Reptilko on 1/9/2018.
  */
 fun main(args: Array<String>) {
-    var arrayInt = Array<Int>(5){3}
+    var arrayInt = arrayOf<Int>(1,2,3,4,5)
     arrayInt[3]= 10
     println(arrayInt[3])
     for(element in arrayInt){
         println(element)
     }
 
+    println("\n")
+
     //string array
 
-    var arrayStr = Array<String>(4){""}
-    for(index in 0..3){
-        print("ArrayStr[$index]=")
-        arrayStr[index]=readLine()!!
+    var arrayStr = arrayOf<String>("Panda", "Leptir", "Reptil")
+    for(index in arrayStr){
+        println("ArrayStr[$index]=$index ")
+
     }
-    for(index in 0..3){
-        println("ArrayStr[$index]=" + arrayStr[index])
+    // or
+    for(index in arrayStr){
+        println("ArrayStr[$index]=" + index)
     }
+
+    println("\n")
 
     //array list
 
@@ -30,20 +35,35 @@ fun main(args: Array<String>) {
     arrayList.add("a")
 
     println("First: " + arrayList.get(0))
+    println("Second: " + arrayList.get(1))
+    println("Third: " + arrayList.get(2))
+    println("Fourth: " + arrayList.get(3))
+    println("Fifth: " + arrayList.get(4))
+
+    println("\n")
 
     println("Panda?")
     for(item in arrayList){
         print(item)
     }
 
+    println("\n")
+
     println("Elements by index:")
     for(index in 0..arrayList.size-1){
-        println("$index.element:"+arrayList.get(index))
+        println("$index:"+arrayList.get(index))
     }
+
+    println("\n")
 
     arrayList.set(0, "Z")
     println("First: " + arrayList.get(0))
+    println(arrayList)
+    for(item in arrayList){
+        print(item)
+    }
 
+    println("\n")
     //search
 
     if(arrayList.contains("a")){
