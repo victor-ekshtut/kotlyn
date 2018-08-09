@@ -3,7 +3,6 @@
 | Riječ | Objašnjenje |
 | ------ | ------ |
 | Holder | Text |
-| Model | Klasa modela. |
 | Presenter | Koristi se za generairanje pogleda(View) i pridruživanje objekata pogledima. |
 | View | Cigla grafičkog sučelja Androida. Osnovna klasa za kreiranje grafičkog korisničkog sučelja(slika[ImageView], teksta[TextView], tipki[Button], itd.). |
 | Aktivity | Predstavlja osnovni zaslon aplikacije. |
