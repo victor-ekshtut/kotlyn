@@ -2,10 +2,11 @@
 
 | Riječ | Objašnjenje |
 | ------ | ------ |
+| Adapter | Adapter je objekt čiji je zadatak povezati pogled(View) i podatke korištenje u tom pogledu. |
 | ADB | Android Debug Bridge, sastavni dio Android SDK koji omogućava komunikaciju sa uređajem(testiranje apliakcije). |
 | APK | Android PacKage,  format datoteke korišten od strane Android operacijskog sustava za distribuciju i instalaciju aplikacija. |
 | ActionBar | Text |
-| Adapter | Adapter je objekt čiji je zadatak povezati pogled(View) i podatke korištenje u tom pogledu. |
+| ANR | Application Not Responding, poruka koje se pojavljuje na zaslonu nakon što aplikacija(glavna nit) bude blokirana neko vrijeme, omogućuje korisniku izlazak iz aplikacije(ubijanje). |
 | Aktivity | Predstavlja osnovni zaslon aplikacije. |
 | Android Manifest | Sastavni dio Android aplikacije. Sadrži dopuštenja potrebna za rad aplikacije, naziv aplikacije, ikonu aplikacije, servise itd..  |
 | Bundle | Text |
