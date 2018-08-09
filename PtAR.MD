@@ -15,12 +15,13 @@
 | Klasa | Nacrt modela, klasa sadrži naziv, tipove i nazive varijabli i metode koje opisuju model. Realizacija klase naziva se objekt. |
 | Objekt | Realizacija klase.   |
 | Konstruktor | Koristi se za instanciranje klase, inicijalizira varijable klase za svaku novo kreiranu instancu. |
-| Metoda | Text |
-| ADB | Android Debug Bridge |
+| Metoda | Predefinirana Android klasa. Primjer: onCreate(), on Destroy(), itd..  |
+| SDK | Software Development Kit, skup programskih alata korišten za kreiranje aplikacije namjenjene nekoj platformi(Android, Play Station, iOS, itd..).  |
+| ADB | Android Debug Bridge, sastavni dio Android SDK koji omogućava komunikaciju sa uređajem(testiranje apliakcije). |
 | APK | Android PacKage,  format datoteke korišten od strane Android operacijskog sustava za distribuciju i instalaciju aplikacija. |
 | Android Manifest | Sastavni dio Android aplikacije. Sadrži dopuštenja potrebna za rad aplikacije, naziv aplikacije, ikonu aplikacije, servise itd..  |
 | Service | Radnja koja se izvršava u pozadini, ne mora sadržavati grafičko korisničko sučelje. Postoje foreground services(prednji?servisi), oni obavljaju radnju vidljivu korisniku, i background services(pozadinski servisi), oni obavljaju radnju koja nije vidljiva korisniku. |
-| R klasa | Text |
+| R klasa | Sadrži sve globalne varijable? |
 | ViewGroup | Pogled roditelj koji može sadržavati druge poglede(djecu) |
 | ActionBar | Text |
 | Toolbar | Text |
