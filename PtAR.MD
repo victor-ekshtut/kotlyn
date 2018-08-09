@@ -2,9 +2,10 @@
 
 | Riječ | Objašnjenje |
 | ------ | ------ |
-| Holder | Text |
-| Presenter | Koristi se za generairanje pogleda(View) i pridruživanje objekata pogledima. |
 | View | Cigla grafičkog sučelja Androida. Osnovna klasa za kreiranje grafičkog korisničkog sučelja(slika[ImageView], teksta[TextView], tipki[Button], itd.). |
+| ViewHolder | Sastavni dio RecycleView-a.Koristi se za kontroliranje pogleda(View). |
+| Presenter | Koristi se za generairanje pogleda(View) i pridruživanje objekata pogledima. |
+| Adapter | Adapter je objekt čiji je zadatak povezati pogled(View) i podatke korištenje u tom pogledu. |
 | Aktivity | Predstavlja osnovni zaslon aplikacije. |
 | Fragment | Pogleda unutar aktivitya, može biti samostalan pogled, "mini" aktivity. Moguće korištenje više fragmenata unutar aktivitya, te korištenje jednog ili više fragmenata kroz više aktivitya. |
 | XML | Opisni jezik korišten za uređivanje grafičkog korisničkog sučelja. |
