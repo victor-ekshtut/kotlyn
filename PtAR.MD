@@ -8,7 +8,7 @@
 | Aktivity | Predstavlja osnovni zaslon aplikacije. |
 | Fragment | Pogleda unutar aktivitya, može biti samostalan pogled, "mini" aktivity. Moguće korištenje više fragmenata unutar aktivitya, te korištenje jednog ili više fragmenata kroz više aktivitya. |
 | XML | Opisni jezik korišten za uređivanje grafičkog korisničkog sučelja. |
-| Kotlin | Tata. |
+| Kotlin | Tata. Ono što bi react htio biti |
 | Java | Boilerplate |
 | Design pattern | MVP, MVC, MVVM, JA TO NE ZNAM. |
 | Klasa | Nacrt modela, klasa sadrži naziv, tipove i nazive varijabli i metode koje opisuju model. Realizacija klase naziva se objekt. |
