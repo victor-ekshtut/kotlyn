@@ -14,7 +14,7 @@
 | Design pattern | MVP, MVC, MVVM, JA TO NE ZNAM. |
 | Klasa | Nacrt modela, klasa sadrži naziv, tipove i nazive varijabli i metode koje opisuju model. Realizacija klase naziva se objekt. |
 | Objekt | Realizacija klase.   |
-| Konstruktor | Text |
+| Konstruktor | Koristi se za instanciranje klase, inicijalizira varijable klase za svaku novo kreiranu instancu. |
 | Metoda | Text |
 | ADB | Android Debug Bridge |
 | APK | Android PacKage,  format datoteke korišten od strane Android operacijskog sustava za distribuciju i instalaciju aplikacija. |
