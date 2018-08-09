@@ -2,16 +2,16 @@
 
 | Riječ | Objašnjenje |
 | ------ | ------ |
-| Handler | Text |
+| Holder | Text |
 | Model | Klasa modela. |
 | Presenter | Koristi se za generairanje pogleda(View) i pridruživanje objekata pogledima. |
 | View | Cigla grafičkog sučelja Androida. Osnovna klasa za kreiranje grafičkog korisničkog sučelja(slika[ImageView], teksta[TextView], tipki[Button], itd.). |
-| Aktivity | Text |
-| Fragment | Text |
+| Aktivity | Predstavlja osnovni zaslon aplikacije. |
+| Fragment | Pogleda unutar aktivitya, može biti samostalan pogled, "mini" aktivity. Moguće korištenje više fragmenata unutar aktivitya, te korištenje jednog ili više fragmenata kroz više aktivitya. |
 | XML | Opisni jezik korišten za uređivanje grafičkog korisničkog sučelja. |
 | Kotlin | Tata. |
 | Java | Boilerplate |
-| Design pattern | Text |
+| Design pattern | MVP, MVC, MVVM, JA TO NE ZNAM. |
 | Klasa | Nacrt modela, klasa sadrži naziv, tipove i nazive varijabli i metode koje opisuju model. Realizacija klase naziva se objekt. |
 | Objekt | Realizacija klase.   |
 | Konstruktor | Text |
