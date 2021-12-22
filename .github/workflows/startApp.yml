@@ -1,0 +1,12 @@
+name: Sonar Scan
+on:
+  push:
+  pull_request:
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+      - name: Run Application
+        run: nohup npm run start &
