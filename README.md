@@ -1,7 +1,7 @@
 # kotlyn
 :panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face:
 
-I'm using this repository for Kotlin learning purposes.
+I'm using this repository for Kotlin learning purposes..
 
 :panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face::panda_face:
 
